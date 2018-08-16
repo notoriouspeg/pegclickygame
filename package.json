@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "clickygame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://notoriouspeg.github.io/react-pages",
+  "homepage": "http://notoriouspeg.github.io/react-app-clickygame",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
